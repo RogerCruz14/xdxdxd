@@ -1,0 +1,9 @@
+1. Solo es una versión de prueba.Hay que considerar
+	todos los parametros necesarios que se han 
+	explicado en clases.
+2. No modificar la navegación ni el pie de página
+	a menos que ya se haya acordado los cambios.
+	Esto con la finalidad de mantener uniformidada
+	en todas las páginas que conformaran el sitio web.
+3. Empezar a incluir la parte que le corresponde a 
+	cada uno a partir de la etiquera <main>.
